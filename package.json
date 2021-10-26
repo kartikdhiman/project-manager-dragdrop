@@ -1,0 +1,13 @@
+{
+	"name": "project-manager-typescript",
+	"version": "1.0.0",
+	"description": "Project - Drag n Drop",
+	"private": true,
+	"scripts": {
+		"start": "lite-server"
+	},
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.5.4"
+	}
+}
